@@ -1,4 +1,4 @@
-# enchanted-lvl-
+# enchanted-lvl-Plus
 A Minecraft Enchanted book mod-You can use /function to get enchanted book like -sharpness 20- that you can used on Android or PC.
 
 you can just use for Bedrock Edition!
