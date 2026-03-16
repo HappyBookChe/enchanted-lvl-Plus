@@ -5,6 +5,8 @@ you can just use for Bedrock Edition!
 
 use /function to Summon two shulker box you can open and take out your enchanted book.
 
+and use /function lvl( )-t to summon item of shulker box(we haven't name of it)
+
 now,the edition is 1.26.3 you can see all enchanted book
 
 I think it's "Useful" .
